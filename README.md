@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/shrabani-dhal-60b583195)
+[![Linkedin Badge] (https://www.linkedin.com/in/shrabani-dhal-60b583195)
 
 
 
