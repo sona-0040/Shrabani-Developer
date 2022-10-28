@@ -1,9 +1,10 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEqPf3bnoJkLgAAAYQehV9Ad8xScl3_7ffaPNaCRuNTcYj_n03qM7W0IeOGblFr73IX0N42cUB7oLE0RZ4OON2WAa6R4OJWBsbUVwtV_mZlybZtOqEJuy_jfqnrGXP0NnIJNHQ=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshrabani-dhal-60b583195)]
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sh rabani-dhal-60b583195)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+
+
+
 
 I'm Shrabani Dhal
 Full Stack Solution Architect
