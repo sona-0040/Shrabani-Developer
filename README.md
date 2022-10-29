@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge]](href="https://www.linkedin.com/in/shrabani-dhal-60b583195" )
+[![Linkedin Badge]](https://www.linkedin.com/in/shrabani-dhal-60b583195 )
 
 
 
