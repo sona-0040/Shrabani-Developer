@@ -12,7 +12,6 @@ The crossover between design and programming has always been of interest to me, 
 <img src="![image](https://user-images.githubusercontent.com/56695151/199265254-ad645b5e-0cad-4303-be8a-fdf9cc050dd7.png)" alt="coding" align="right" width=234/>
 
 
-<img src="![image](https://user-images.githubusercontent.com/56695151/199265254-ad645b5e-0cad-4303-be8a-fdf9cc050dd7.png) " alt="coding" align="right" width=234/>
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   
