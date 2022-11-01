@@ -11,7 +11,7 @@ The crossover between design and programming has always been of interest to me, 
 
 <img src="![image](https://user-images.githubusercontent.com/56695151/199298627-078debbe-e2dd-47cb-aaec-435fd442d168.png)
 
-" alt="coding" align="right" width=234/>
+" alt="coding" align="right" width=50/>
 
 
 <div>
