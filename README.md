@@ -8,7 +8,7 @@ I'm Shrabani Dhal
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me,  I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),  front-end development (React,ReactJs, HTML5, CSS3, Javascript, Responsive), Server (AWS, Azure),database(MongoDB,Mysql) 
 
-<img src="![image](https://user-images.githubusercontent.com/56695151/199264025-6143819b-99c5-4d80-a77d-520065fb02b7.png)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmoyantri&psig=AOvVaw2W2D1V216vSqZHFCRxelFm&ust=1667400749675000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDr_fydjfsCFQAAAAAdAAAAABAd
 " alt="coding" width="400" align="right">
 <div>
   <h4>🏆 Github Profile Trophy</h4>
